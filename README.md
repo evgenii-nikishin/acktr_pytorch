@@ -9,7 +9,10 @@ The code is organized as follows:
 
 See demo [here](https://github.com/nikishin-evg/acktr_pytorch/blob/master/example_of_usage.ipynb).
 
-Code is developed and supperted by:
+
+------------------------------------------
+
+Code is developed and supported by:
 * Iurii Kemaev [hbq1](https://github.com/hbq1) (*y.kemaev@gmail.com*)
 * Maxim Kuznetsov [binom16](https://github.com/binom16) (*binom16@gmail.com*)
 * Eugenii Nikishin [nikishin-evg](https://github.com/nikishin-evg) (*nikishin.evg@gmail.com*)
